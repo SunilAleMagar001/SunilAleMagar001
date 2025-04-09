@@ -1,4 +1,4 @@
-<h3 align="center">A passionate learner learning different type of tech</h3>
+<h3 align="center">Hi This is me</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
