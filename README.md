@@ -1,36 +1,43 @@
-# Welcome! 👋
-
-## About Me
-
-I am a student passionate about technology and programming. My academic journey has provided me with hands-on experience in software development and web technologies, including:
-
-## Skills
-
-| Language / Technology | Badge |
-|-----------------------|-------|
-| C                     | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
-| Java                  | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
-| PHP                   | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
-| HTML                  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-| CSS                   | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-
-- **C:** Developing efficient programs and understanding of core concepts.
-- **Java:** Object-oriented programming and application development.
-- **PHP:** Server-side scripting and building dynamic web applications.
-- **HTML & CSS:** Creating responsive and visually appealing web pages.
-
-## Projects
-
-*(Add your projects here, for example:)*
-
-- **Portfolio Website:** Designed and developed a personal portfolio using HTML, CSS, and PHP.
-- **Student Management System:** Built a Java-based application to manage student records.
-- **Simple Calculator in C:** Developed a command-line calculator to perform basic arithmetic operations.
-
-## Contact
-
-Feel free to connect with me on [GitHub](https://github.com/SunilAleMagar001) or reach out via email: `your.email@example.com`.
+# Hi there! 👋 I'm Sunil
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Web+Developer;Java+Programmer;PHP+Backend+Developer;Tech+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
-Thank you for visiting my repository!
+## 🚀 About Me  
+I'm a passionate **Web Developer** who loves building dynamic, responsive, and user-friendly web applications.  
+With experience in **frontend and backend technologies**, I enjoy turning ideas into functional, efficient, and visually appealing digital experiences.
+
+---
+
+## 🎯 Current Focus  
+🌐 **Web Development:** Crafting interactive and responsive websites using HTML, CSS, and JavaScript  
+⚙️ **Backend Systems:** Developing scalable backend solutions using PHP and Java  
+🧩 **Clean Code:** Writing maintainable and efficient solutions  
+🚀 **Performance Optimization:** Ensuring fast, smooth, and reliable applications  
+
+---
+
+## 🏢 Professional Experience  
+💻 **Web Developer** — Building functional and aesthetic websites  
+☕ **Java Developer** — Creating structured, object-oriented backend systems  
+📊 **Problem Solver** — Translating business requirements into working solutions  
+🤝 **Team Collaborator** — Experienced in version control (Git) and agile workflows  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** HTML | CSS | JavaScript  
+**Backend:** Java | PHP  
+**Tools:** Git | GitHub | VS Code | NetBeans  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced PHP and MySQL  
+- Responsive design patterns (Flexbox, Grid)  
+- Java Servlets & JSP  
+---
+
+> “Code is like art — it’s best when it’s simple, elegant, and functional.” 🎨  
+⭐ *Thanks for stopping by! Feel free to explore my projects and connect with me.*
+
